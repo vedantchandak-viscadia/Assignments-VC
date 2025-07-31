@@ -8,7 +8,7 @@
     [AWS Glue / EMR]       <-- Data cleaning & transformation (ETL)
          |
          v
-  [Amazon RDS (PostgreSQL)]
+  [Amazon RDS (MSSQL for windows based, can explore sql type based on usecase)]
          |
          v
  [Frontend display/ dashboard]
