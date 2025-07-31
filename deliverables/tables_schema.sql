@@ -6,6 +6,7 @@ CREATE TABLE customers (
     region           VARCHAR(200),       
     sales_rep        VARCHAR(200)
 );
+CREATE INDEX idx_customers_region ON customers(region);
 
 CREATE TABLE products (
     product_id      VARCHAR(200) PRIMARY KEY,
@@ -23,6 +24,7 @@ CREATE TABLE inventory (
     avg_daily_sales      INTEGER,
     days_until_reorder   NUMERIC(4, 1)
 );
+CREATE INDEX idx_inventory_product ON inventory(product_id);
 
 CREATE TABLE sales (
     sale_id             VARCHAR(200) PRIMARY KEY,
@@ -33,3 +35,8 @@ CREATE TABLE sales (
     product_price       NUMERIC(10, 2),
     total_sale_amount   NUMERIC(12, 2)
 );
+CREATE INDEX idx_sales_date ON sales(sale_date);
+
+CREATE INDEX idx_sales_product ON sales(product_id);
+
+CREATE INDEX idx_sales_customer ON sales(customer_id);
