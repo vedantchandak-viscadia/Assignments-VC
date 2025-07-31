@@ -14,7 +14,7 @@ Each assignment is designed to evaluate both core technical competencies and pro
 - [`associate`](https://github.com/Viscadia/Assignments/tree/Associate): Assignment for candidates applying to the **Associate** position.
 - [`associate-consultant`](https://github.com/Viscadia/Assignments/tree/Associate-Consultant): Assignment for candidates applying to the **Associate Consultant** position.
 
-> Please switch to the appropriate branch based on the role you're applying for.
+> Please click on the URL and switch to the relevant branch based on the role you're applying for.
 
 ## Instructions
 
