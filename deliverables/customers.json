@@ -1,0 +1,8002 @@
+[
+  {
+    "customer_id": "C1000",
+    "customer_name": "Jason Owens",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1001",
+    "customer_name": "Robin Kirk",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1002",
+    "customer_name": "Thomas Norris",
+    "type": "Online",
+    "city": "New York",
+    "region": "Eest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1003",
+    "customer_name": "Vickie Douglas",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1004",
+    "customer_name": "Diane Pace",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1005",
+    "customer_name": "Walter Taylor",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1006",
+    "customer_name": "Christian Patrick",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1007",
+    "customer_name": "Diana Newman",
+    "type": "Retail",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1008",
+    "customer_name": "Patrick Arnold",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1009",
+    "customer_name": "Steven Murphy",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1010",
+    "customer_name": "Scott Love",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1011",
+    "customer_name": "Michael Ortiz",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Eest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1012",
+    "customer_name": "Robert Howell",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1013",
+    "customer_name": "Christopher Brown",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1014",
+    "customer_name": "Julia Wilson",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1015",
+    "customer_name": "Levi Barajas",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1016",
+    "customer_name": "Kathryn Gardner MD",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1017",
+    "customer_name": "Aaron Murphy",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1018",
+    "customer_name": "Gina Ellis",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1019",
+    "customer_name": "Patrick Keller",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1020",
+    "customer_name": "Laura Navarro",
+    "type": "Online",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1021",
+    "customer_name": "Amy Butler",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1022",
+    "customer_name": "Marisa Singleton",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1023",
+    "customer_name": "Jaime Crawford",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1024",
+    "customer_name": "Christopher Palmer",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1025",
+    "customer_name": "Bailey Ibarra",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1026",
+    "customer_name": "Mr. John Bishop Jr.",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1027",
+    "customer_name": "Kimberly Martinez",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1028",
+    "customer_name": "Julie Munoz",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1029",
+    "customer_name": "Deborah Terry",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Eest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1030",
+    "customer_name": "Kelly Carpenter",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1031",
+    "customer_name": "Yvonne Proctor",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1032",
+    "customer_name": "Matthew Brooks",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1033",
+    "customer_name": "Anthony Pena",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1034",
+    "customer_name": "Susan Hammond",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1035",
+    "customer_name": "Benjamin Gonzalez",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1036",
+    "customer_name": "Jonathan Crawford",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1037",
+    "customer_name": "Nicholas Tucker",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1038",
+    "customer_name": "Elaine Keller",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1039",
+    "customer_name": "Barbara Dunlap",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1040",
+    "customer_name": "Jennifer Ray",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1041",
+    "customer_name": "Elizabeth Carson",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1042",
+    "customer_name": "Scott Fox",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1043",
+    "customer_name": "Andrea Smith",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1044",
+    "customer_name": "Katherine Cowan",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Suth",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1045",
+    "customer_name": "Kelly Ali",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1046",
+    "customer_name": "Stephen Smith",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1047",
+    "customer_name": "Jasmine Pace",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1048",
+    "customer_name": "Jeff Cummings",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1049",
+    "customer_name": "Charles Baker",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Noth",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1050",
+    "customer_name": "Mark Berg",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1051",
+    "customer_name": "Dr. Justin Meyer",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Suth",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1052",
+    "customer_name": "Caroline Young",
+    "type": "Online",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1053",
+    "customer_name": "Jessica Lambert",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1054",
+    "customer_name": "Jennifer Duarte",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1055",
+    "customer_name": "Patrick Keller",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Eest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1056",
+    "customer_name": "Sarah Campbell",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1057",
+    "customer_name": "Richard Everett",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1058",
+    "customer_name": "Nancy Hubbard",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1059",
+    "customer_name": "Maria Parrish",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1060",
+    "customer_name": "Holly Mosley",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1061",
+    "customer_name": "Bruce Coleman",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1062",
+    "customer_name": "Brenda Cox",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1063",
+    "customer_name": "Cody Mercer",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1064",
+    "customer_name": "Harry Price",
+    "type": "Online",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1065",
+    "customer_name": "Andrew Phillips",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1066",
+    "customer_name": "John Burch",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1067",
+    "customer_name": "Diane Lopez",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1068",
+    "customer_name": "Susan Smith",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1069",
+    "customer_name": "Daniel Wallace",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Eest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1070",
+    "customer_name": "Karen Blankenship",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1071",
+    "customer_name": "Lisa Haley",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1072",
+    "customer_name": "Tanya Garcia",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1073",
+    "customer_name": "Benjamin Peterson",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1074",
+    "customer_name": "Brandi Dennis",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1075",
+    "customer_name": "Andrea Collins",
+    "type": "Online",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1076",
+    "customer_name": "Kristen Douglas",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1077",
+    "customer_name": "Marissa Gibson",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1078",
+    "customer_name": "Charles Andrade",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Wesst",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1079",
+    "customer_name": "Linda Rogers",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1080",
+    "customer_name": "Aaron Frank",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1081",
+    "customer_name": "Cynthia Sloan",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1082",
+    "customer_name": "Cindy Garcia",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1083",
+    "customer_name": "Katelyn Williams",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1084",
+    "customer_name": "Cynthia Cooley",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1085",
+    "customer_name": "Jamie Campbell",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1086",
+    "customer_name": "Christine Pitts",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1087",
+    "customer_name": "Heather Campbell",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Eest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1088",
+    "customer_name": "Aaron Bennett",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "N/E",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1089",
+    "customer_name": "Amanda Lane",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1090",
+    "customer_name": "Katrina Payne",
+    "type": "Retail",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1091",
+    "customer_name": "Lisa Williams",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1092",
+    "customer_name": "Jordan Lewis",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1093",
+    "customer_name": "William Nash",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1094",
+    "customer_name": "Erik Norris",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Noth",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1095",
+    "customer_name": "Dr. Adam Pittman",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1096",
+    "customer_name": "Sara Parks",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1097",
+    "customer_name": "Lisa Kim",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Suth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1098",
+    "customer_name": "Timothy Stewart",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1099",
+    "customer_name": "David Hobbs",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Wesst",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1100",
+    "customer_name": "Kristina Compton",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1101",
+    "customer_name": "Dr. Katie May",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1102",
+    "customer_name": "Jamie Campbell",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1103",
+    "customer_name": "Danielle Montgomery",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1104",
+    "customer_name": "Matthew Sanchez",
+    "type": "Online",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1105",
+    "customer_name": "Kristina Compton",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1106",
+    "customer_name": "Jose Young",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1107",
+    "customer_name": "Jessica Liu",
+    "type": "Retail",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1108",
+    "customer_name": "Holly Alexander",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1109",
+    "customer_name": "Daniel Fuentes",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1110",
+    "customer_name": "Christina Jones",
+    "type": "Online",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1111",
+    "customer_name": "Tiffany Thompson",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1112",
+    "customer_name": "Elizabeth Christensen",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Cental",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1113",
+    "customer_name": "Cheryl Gentry",
+    "type": "Retail",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1114",
+    "customer_name": "Emily Torres",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1115",
+    "customer_name": "Colleen Flynn",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1116",
+    "customer_name": "Hector Bennett",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1117",
+    "customer_name": "Timothy Ryan",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1118",
+    "customer_name": "Glenn Brown",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1119",
+    "customer_name": "Roger Evans",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1120",
+    "customer_name": "Kimberly Walker",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1121",
+    "customer_name": "Michael Wolfe",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1122",
+    "customer_name": "Zachary Cook",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1123",
+    "customer_name": "Mark Thompson",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1124",
+    "customer_name": "Lauren Curtis",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "N/E",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1125",
+    "customer_name": "Christine Miller",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1126",
+    "customer_name": "Jason Wilson",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1127",
+    "customer_name": "Leslie Boyer",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1128",
+    "customer_name": "Samantha Watts",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1129",
+    "customer_name": "Evan Cruz",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1130",
+    "customer_name": "Scott Garrison",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1131",
+    "customer_name": "Steven Gardner",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1132",
+    "customer_name": "Scott Edwards",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1133",
+    "customer_name": "Margaret Davis",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1134",
+    "customer_name": "Katherine Cowan",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1135",
+    "customer_name": "Cheryl Gentry",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Eest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1136",
+    "customer_name": "Larry Ross",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1137",
+    "customer_name": "Brett Robinson",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1138",
+    "customer_name": "Anita Davis",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "N/E",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1139",
+    "customer_name": "Matthew Mills",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1140",
+    "customer_name": "Sharon Gross",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1141",
+    "customer_name": "Justin Lee",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1142",
+    "customer_name": "Chelsea Clark",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1143",
+    "customer_name": "Ryan Evans",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Noth",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1144",
+    "customer_name": "Amber Gill",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1145",
+    "customer_name": "Jonathan Jackson",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1146",
+    "customer_name": "Nathan Dixon",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1147",
+    "customer_name": "Brent Riley",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1148",
+    "customer_name": "Deborah Anthony",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1149",
+    "customer_name": "Brett Norris",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1150",
+    "customer_name": "Ronnie Campbell MD",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1151",
+    "customer_name": "Brian Jones",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1152",
+    "customer_name": "Dennis Beck",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1153",
+    "customer_name": "Kimberly Walker",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1154",
+    "customer_name": "Stefanie Brown",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1155",
+    "customer_name": "Steven Cox",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1156",
+    "customer_name": "Joshua Gonzalez",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1157",
+    "customer_name": "Marissa Taylor",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1158",
+    "customer_name": "Kelly Smith",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1159",
+    "customer_name": "Dr. Jennifer Bennett",
+    "type": "Online",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1160",
+    "customer_name": "Stacey Curtis",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1161",
+    "customer_name": "Cassandra Garza",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "N/E",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1162",
+    "customer_name": "Margaret Davis",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1163",
+    "customer_name": "Brett Curtis",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1164",
+    "customer_name": "James Benson",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1165",
+    "customer_name": "Nicholas Ellison",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1166",
+    "customer_name": "Collin Meyer",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1167",
+    "customer_name": "Lisa Brown",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1168",
+    "customer_name": "Suzanne Perez",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1169",
+    "customer_name": "Jeffrey Adams",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1170",
+    "customer_name": "Brandi Dennis",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1171",
+    "customer_name": "Laura Washington",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1172",
+    "customer_name": "Rebecca Alexander",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1173",
+    "customer_name": "Yolanda Oliver",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1174",
+    "customer_name": "Michael Reynolds",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1175",
+    "customer_name": "Michael Fowler",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1176",
+    "customer_name": "Kimberly Willis",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1177",
+    "customer_name": "Jeffrey Lynch",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1178",
+    "customer_name": "Kimberly Moore",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1179",
+    "customer_name": "Michael Mcguire",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1180",
+    "customer_name": "Brenda Davis",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1181",
+    "customer_name": "John Guzman",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1182",
+    "customer_name": "Brian Lopez",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1183",
+    "customer_name": "John Jones",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1184",
+    "customer_name": "Jessica Koch",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1185",
+    "customer_name": "Natalie Harris",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1186",
+    "customer_name": "Kelsey Harris",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1187",
+    "customer_name": "Christine Lambert",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1188",
+    "customer_name": "Jason Lutz",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1189",
+    "customer_name": "Haley Orr",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1190",
+    "customer_name": "Steven Castillo",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1191",
+    "customer_name": "Robin Cox",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1192",
+    "customer_name": "John Baker",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "SWest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1193",
+    "customer_name": "Mark Soto",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "SWest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1194",
+    "customer_name": "Margaret Davis",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1195",
+    "customer_name": "Jaime Crawford",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1196",
+    "customer_name": "Tina Romero",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1197",
+    "customer_name": "Shane Barnett",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1198",
+    "customer_name": "Kaitlin Pope",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Wesst",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1199",
+    "customer_name": "Cindy Moore",
+    "type": "Online",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1200",
+    "customer_name": "Dr. Amy King DDS",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Cental",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1201",
+    "customer_name": "Diane Berry",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "N/E",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1202",
+    "customer_name": "Alicia Miles",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1203",
+    "customer_name": "Jasmine Porter",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1204",
+    "customer_name": "Kelly Walker",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1205",
+    "customer_name": "Nicole Mcdonald",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1206",
+    "customer_name": "Tyrone Lane",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1207",
+    "customer_name": "Shane Jackson",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1208",
+    "customer_name": "Jason Harrison",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1209",
+    "customer_name": "Julie Simpson",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1210",
+    "customer_name": "Susan Gonzales",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "SWest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1211",
+    "customer_name": "Melinda Coleman",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1212",
+    "customer_name": "Amy Howell",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1213",
+    "customer_name": "Melanie Gonzalez",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1214",
+    "customer_name": "Stephanie Johnson",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1215",
+    "customer_name": "Gabrielle Blair",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1216",
+    "customer_name": "Kayla Ramos",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1217",
+    "customer_name": "Lori Marshall",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1218",
+    "customer_name": "Chelsea Johnson",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1219",
+    "customer_name": "Kayla Price",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1220",
+    "customer_name": "Jennifer Brandt",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1221",
+    "customer_name": "Jonathan Shelton",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1222",
+    "customer_name": "William Tucker",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1223",
+    "customer_name": "Jordan Bolton",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1224",
+    "customer_name": "Amy Sullivan",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1225",
+    "customer_name": "Jennifer Jones",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1226",
+    "customer_name": "John Turner",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1227",
+    "customer_name": "Gloria Gonzales",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1228",
+    "customer_name": "Shawn Kidd",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1229",
+    "customer_name": "Zachary Jones",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1230",
+    "customer_name": "Christina Singh",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1231",
+    "customer_name": "Terry Cole",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Eest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1232",
+    "customer_name": "Christopher Lee",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1233",
+    "customer_name": "Ryan Ponce",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1234",
+    "customer_name": "Angie Simpson",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1235",
+    "customer_name": "Daniel Gordon",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1236",
+    "customer_name": "Tammy Scott",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1237",
+    "customer_name": "Troy Hughes",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Noth",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1238",
+    "customer_name": "Paul Taylor",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1239",
+    "customer_name": "Scott Harris",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1240",
+    "customer_name": "Elizabeth Larson",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Noth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1241",
+    "customer_name": "Steven Little",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1242",
+    "customer_name": "Amanda Sharp",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1243",
+    "customer_name": "April Rios",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1244",
+    "customer_name": "Kelly Smith",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1245",
+    "customer_name": "Teresa Cox",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Wesst",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1246",
+    "customer_name": "Shelby Mann",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1247",
+    "customer_name": "Wesley Brown",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1248",
+    "customer_name": "Angela Mcconnell",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1249",
+    "customer_name": "Erik Parsons",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Wesst",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1250",
+    "customer_name": "Sarah Henderson",
+    "type": "Online",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1251",
+    "customer_name": "Amanda Sharp",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1252",
+    "customer_name": "Amanda Tanner",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1253",
+    "customer_name": "Chelsea Boone",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1254",
+    "customer_name": "Erik Parsons",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1255",
+    "customer_name": "John Keith Jr.",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1256",
+    "customer_name": "Carlos Diaz",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1257",
+    "customer_name": "Joseph Turner",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1258",
+    "customer_name": "Dennis Richards",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1259",
+    "customer_name": "Tracy Stewart",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1260",
+    "customer_name": "Laura Serrano",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1261",
+    "customer_name": "Brian Jones",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1262",
+    "customer_name": "Paul Howell",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1263",
+    "customer_name": "Nathan Richards",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1264",
+    "customer_name": "Kylie Davis",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1265",
+    "customer_name": "Brittany Kane",
+    "type": "Online",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1266",
+    "customer_name": "Devin Miller",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1267",
+    "customer_name": "Kevin Jacobs",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1268",
+    "customer_name": "David Murray",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1269",
+    "customer_name": "Kyle Brown",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1270",
+    "customer_name": "Wendy Rivera",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1271",
+    "customer_name": "Daniel Curtis",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1272",
+    "customer_name": "Connie Casey",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1273",
+    "customer_name": "Kevin Jacobs",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1274",
+    "customer_name": "Lisa Nguyen",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1275",
+    "customer_name": "Bianca Gibson",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1276",
+    "customer_name": "Bryan Stone",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1277",
+    "customer_name": "Ryan Bradley DVM",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1278",
+    "customer_name": "James Garcia",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1279",
+    "customer_name": "Jamie Cohen DDS",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1280",
+    "customer_name": "Bruce Juarez",
+    "type": "Online",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1281",
+    "customer_name": "Brad Rowe",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1282",
+    "customer_name": "Jaclyn Davis",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1283",
+    "customer_name": "Andrea Collins",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1284",
+    "customer_name": "Vicki Chang",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1285",
+    "customer_name": "Sabrina Peterson",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1286",
+    "customer_name": "Justin Sanchez",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1287",
+    "customer_name": "James Garcia",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1288",
+    "customer_name": "Caitlyn Taylor",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Cental",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1289",
+    "customer_name": "Thomas Bush",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1290",
+    "customer_name": "Carrie Byrd",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1291",
+    "customer_name": "Tyler Hanna",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1292",
+    "customer_name": "Luis Oliver",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1293",
+    "customer_name": "Justin Watts",
+    "type": "Online",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1294",
+    "customer_name": "Laura Navarro",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1295",
+    "customer_name": "Katrina Payne",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1296",
+    "customer_name": "Troy Cook",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1297",
+    "customer_name": "Sara Wilson",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1298",
+    "customer_name": "Robert Harrison",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1299",
+    "customer_name": "Christopher Young",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1300",
+    "customer_name": "Andrea Smith",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1301",
+    "customer_name": "David Little",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "SWest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1302",
+    "customer_name": "Kelly Giles",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1303",
+    "customer_name": "Mathew Oneal",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Cental",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1304",
+    "customer_name": "Sarah Rodriguez",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1305",
+    "customer_name": "Ashley Murillo",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1306",
+    "customer_name": "Christine Walker",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1307",
+    "customer_name": "Steven Hughes",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1308",
+    "customer_name": "Catherine Yoder",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Suth",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1309",
+    "customer_name": "Barbara Franklin",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1310",
+    "customer_name": "Mr. John Bishop Jr.",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1311",
+    "customer_name": "Derrick Cohen",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1312",
+    "customer_name": "Christopher Andrade",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1313",
+    "customer_name": "Todd Foster",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "N/E",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1314",
+    "customer_name": "Joan Mccall",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1315",
+    "customer_name": "Michelle Wilson",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1316",
+    "customer_name": "Stephen Scott",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1317",
+    "customer_name": "Mark Barnes",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1318",
+    "customer_name": "Brandon Todd",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1319",
+    "customer_name": "Mr. Brian Dean",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1320",
+    "customer_name": "Kimberly Berry",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1321",
+    "customer_name": "Paul Williams",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1322",
+    "customer_name": "Maria Carrillo",
+    "type": "Online",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1323",
+    "customer_name": "Tyler Hanna",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1324",
+    "customer_name": "Darrell Green",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1325",
+    "customer_name": "Kevin Clark",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1326",
+    "customer_name": "Cassandra Garza",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1327",
+    "customer_name": "Jerry Spears",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1328",
+    "customer_name": "Deborah Thompson",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1329",
+    "customer_name": "Christopher Cooper",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1330",
+    "customer_name": "Blake Calderon",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1331",
+    "customer_name": "Heather Campbell",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1332",
+    "customer_name": "Justin Cunningham",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1333",
+    "customer_name": "Lucas Sherman",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1334",
+    "customer_name": "Jeffrey Rodriguez",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1335",
+    "customer_name": "Christopher Manning",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1336",
+    "customer_name": "Christina Mcguire",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1337",
+    "customer_name": "Alejandro Davis",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1338",
+    "customer_name": "James Anderson",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1339",
+    "customer_name": "Richard Everett",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1340",
+    "customer_name": "Cathy Henry",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1341",
+    "customer_name": "John Phillips",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1342",
+    "customer_name": "Chad Elliott",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Cental",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1343",
+    "customer_name": "Stacey Curtis",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1344",
+    "customer_name": "Mary Jackson",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1345",
+    "customer_name": "Philip Holt",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1346",
+    "customer_name": "Adam Brennan",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1347",
+    "customer_name": "Emma Gallagher",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1348",
+    "customer_name": "Larry Bailey",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1349",
+    "customer_name": "Mr. Kevin Neal",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1350",
+    "customer_name": "David Underwood",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1351",
+    "customer_name": "Adam Contreras",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1352",
+    "customer_name": "Tracy Smith",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1353",
+    "customer_name": "Randy Levy",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1354",
+    "customer_name": "Frank Ramirez",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1355",
+    "customer_name": "Ana Brown",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1356",
+    "customer_name": "Christopher Young",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1357",
+    "customer_name": "Thomas Goodman",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1358",
+    "customer_name": "Monica Jones",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1359",
+    "customer_name": "Sonia Morrison",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1360",
+    "customer_name": "Adam Perez",
+    "type": "Online",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1361",
+    "customer_name": "Mr. Garrett Harris III",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1362",
+    "customer_name": "Robert Newman",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1363",
+    "customer_name": "Hannah Moore",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1364",
+    "customer_name": "Michael Chapman",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1365",
+    "customer_name": "Henry Nelson",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1366",
+    "customer_name": "Marilyn Jones",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1367",
+    "customer_name": "Barry Stevenson",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1368",
+    "customer_name": "Samantha Cameron",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1369",
+    "customer_name": "Gary Ortiz",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1370",
+    "customer_name": "Terry Schmidt",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1371",
+    "customer_name": "Cole Jackson",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1372",
+    "customer_name": "Ms. Yvonne Nelson",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1373",
+    "customer_name": "Bruce Juarez",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1374",
+    "customer_name": "Eric Bradford",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1375",
+    "customer_name": "Melissa Wilson",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1376",
+    "customer_name": "Amber Jones",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Cental",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1377",
+    "customer_name": "Ashley Murillo",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1378",
+    "customer_name": "Kevin Anderson",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1379",
+    "customer_name": "Dawn Ross",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1380",
+    "customer_name": "Dustin Chavez",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1381",
+    "customer_name": "Lori Fox",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1382",
+    "customer_name": "Dana Roth",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1383",
+    "customer_name": "Scott Kim",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1384",
+    "customer_name": "Felicia Hill",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1385",
+    "customer_name": "Aaron Mitchell",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1386",
+    "customer_name": "Chelsea Brown",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1387",
+    "customer_name": "Meagan Norman",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1388",
+    "customer_name": "Brianna Hunt",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1389",
+    "customer_name": "Kevin Scott",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1390",
+    "customer_name": "Megan Collier",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1391",
+    "customer_name": "Ryan Ponce",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Wesst",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1392",
+    "customer_name": "Harold Holt",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1393",
+    "customer_name": "Kathy Donovan",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1394",
+    "customer_name": "Gerald Gutierrez",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1395",
+    "customer_name": "Amber Santos",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1396",
+    "customer_name": "Michael Hernandez",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1397",
+    "customer_name": "Daniel Watts",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1398",
+    "customer_name": "Amy Walker",
+    "type": "Retail",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1399",
+    "customer_name": "Kevin Hall",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1400",
+    "customer_name": "Dennis Villegas",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "SWest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1401",
+    "customer_name": "Brittany Schroeder",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1402",
+    "customer_name": "Sandra Gomez",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1403",
+    "customer_name": "Andrea Stephens",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1404",
+    "customer_name": "Michael Allen",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1405",
+    "customer_name": "Dennis Watson",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1406",
+    "customer_name": "Laurie Vasquez",
+    "type": "Retail",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1407",
+    "customer_name": "Colin Long",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1408",
+    "customer_name": "Cynthia Johnson",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1409",
+    "customer_name": "Jennifer Jones",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1410",
+    "customer_name": "Alicia Thompson",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1411",
+    "customer_name": "Erica Lopez DVM",
+    "type": "Online",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1412",
+    "customer_name": "James Meyer",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1413",
+    "customer_name": "Mr. Garrett Harris III",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1414",
+    "customer_name": "Logan Kelly",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1415",
+    "customer_name": "Leslie Boyer",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1416",
+    "customer_name": "Alexander Jones",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Suth",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1417",
+    "customer_name": "Kevin Carey",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1418",
+    "customer_name": "Justin Willis",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1419",
+    "customer_name": "Jamie Campbell",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1420",
+    "customer_name": "Brian Cervantes",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1421",
+    "customer_name": "Nathaniel Davis",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1422",
+    "customer_name": "Jacqueline Greene",
+    "type": "Online",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1423",
+    "customer_name": "Stephanie Mejia",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1424",
+    "customer_name": "Ashley Costa",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1425",
+    "customer_name": "Danielle Montgomery",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1426",
+    "customer_name": "Mark Cooper",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1427",
+    "customer_name": "Jamie Cohen DDS",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1428",
+    "customer_name": "Richard Osborne",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1429",
+    "customer_name": "Eric Oconnor",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1430",
+    "customer_name": "Deborah Anthony",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1431",
+    "customer_name": "Jessica Koch",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1432",
+    "customer_name": "Erica White",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1433",
+    "customer_name": "Thomas Golden",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Cental",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1434",
+    "customer_name": "James Pugh",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1435",
+    "customer_name": "Melissa King",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1436",
+    "customer_name": "John Barnes",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1437",
+    "customer_name": "Kristin Williams",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1438",
+    "customer_name": "Tammy Young",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1439",
+    "customer_name": "Anthony Melendez",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1440",
+    "customer_name": "Lauren Cook",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1441",
+    "customer_name": "Jim Abbott",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1442",
+    "customer_name": "Eric Davis",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1443",
+    "customer_name": "Rodney Adams",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1444",
+    "customer_name": "Timothy Williams",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1445",
+    "customer_name": "Karen Moore",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Eest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1446",
+    "customer_name": "Carol Ruiz",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1447",
+    "customer_name": "Cathy Alvarez",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1448",
+    "customer_name": "Patricia Barrera",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1449",
+    "customer_name": "Donna Moore",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1450",
+    "customer_name": "Linda Herrera",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Wesst",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1451",
+    "customer_name": "Julie Freeman",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Cental",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1452",
+    "customer_name": "Anthony Hess",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1453",
+    "customer_name": "Emily Torres",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1454",
+    "customer_name": "Nicholas Medina",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Suth",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1455",
+    "customer_name": "Johnathan Schultz",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1456",
+    "customer_name": "David Johnston",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1457",
+    "customer_name": "Dr. Rhonda Burns",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1458",
+    "customer_name": "Donna Krueger",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1459",
+    "customer_name": "Shelby Mann",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1460",
+    "customer_name": "Tina Love",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "SWest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1461",
+    "customer_name": "Kenneth Schroeder",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1462",
+    "customer_name": "Scott Gordon",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1463",
+    "customer_name": "Tara Sanchez",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1464",
+    "customer_name": "Beverly Chapman",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1465",
+    "customer_name": "Michael Banks",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Eest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1466",
+    "customer_name": "Aaron Lee",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1467",
+    "customer_name": "Robert Reed",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1468",
+    "customer_name": "Justin Willis",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1469",
+    "customer_name": "Joyce Stewart",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1470",
+    "customer_name": "Rebecca Moore",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1471",
+    "customer_name": "Pamela Clark",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1472",
+    "customer_name": "Mr. Kevin Neal",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1473",
+    "customer_name": "Christina Ward",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1474",
+    "customer_name": "Jonathan Lewis",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1475",
+    "customer_name": "David Owens",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1476",
+    "customer_name": "Harry Perez",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1477",
+    "customer_name": "Richard Thomas",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1478",
+    "customer_name": "Emily Perez",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "SWest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1479",
+    "customer_name": "Alexander Shaw",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1480",
+    "customer_name": "Cory Chavez",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1481",
+    "customer_name": "Holly Green",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Cental",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1482",
+    "customer_name": "Christine Lara",
+    "type": "Online",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1483",
+    "customer_name": "Brenda Davis",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1484",
+    "customer_name": "Robert Harrison",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1485",
+    "customer_name": "Lisa Morgan",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1486",
+    "customer_name": "Natalie Smith DDS",
+    "type": "Online",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1487",
+    "customer_name": "Lawrence Gamble",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1488",
+    "customer_name": "Nancy Spears",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1489",
+    "customer_name": "Bruce Nichols",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1490",
+    "customer_name": "Elijah Hammond",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1491",
+    "customer_name": "Donald Russell MD",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1492",
+    "customer_name": "Shane Singleton",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Suth",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1493",
+    "customer_name": "Katherine Parsons",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1494",
+    "customer_name": "Shawn Walton",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1495",
+    "customer_name": "Andrea Bradley",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1496",
+    "customer_name": "Lindsay Miller",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1497",
+    "customer_name": "Morgan Orozco",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1498",
+    "customer_name": "Susan Graham",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1499",
+    "customer_name": "Albert Turner DVM",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1500",
+    "customer_name": "Laura Smith",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1501",
+    "customer_name": "Heather Wade",
+    "type": "Online",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1502",
+    "customer_name": "Sharon Schwartz MD",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1503",
+    "customer_name": "Ryan Williams",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1504",
+    "customer_name": "Stephanie Lara",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1505",
+    "customer_name": "Tara Duran",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1506",
+    "customer_name": "Darrell Martinez",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "SWest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1507",
+    "customer_name": "Jacob Jennings",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1508",
+    "customer_name": "Charles Lucero",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1509",
+    "customer_name": "Anne Herrera",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Cental",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1510",
+    "customer_name": "Daniel Richardson",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1511",
+    "customer_name": "William Haynes",
+    "type": "Retail",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1512",
+    "customer_name": "Chad Evans",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1513",
+    "customer_name": "Karen Hughes",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1514",
+    "customer_name": "Austin Robbins",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1515",
+    "customer_name": "Courtney Burns",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1516",
+    "customer_name": "Jean Huynh",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1517",
+    "customer_name": "Ashley Pennington",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1518",
+    "customer_name": "Thomas White",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1519",
+    "customer_name": "Sarah Jones",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1520",
+    "customer_name": "Dylan Peterson",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1521",
+    "customer_name": "Kelly Robles",
+    "type": "Online",
+    "city": "Pune",
+    "region": "N/E",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1522",
+    "customer_name": "Christian Hickman",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1523",
+    "customer_name": "Christopher Holland",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1524",
+    "customer_name": "Nathan Gill",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Suth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1525",
+    "customer_name": "Dr. James Knight III",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1526",
+    "customer_name": "Robert Lewis",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1527",
+    "customer_name": "Taylor Ruiz",
+    "type": "Online",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1528",
+    "customer_name": "Jordan Robinson",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1529",
+    "customer_name": "Candace Greene",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1530",
+    "customer_name": "Michael Shannon",
+    "type": "Retail",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1531",
+    "customer_name": "Philip Holt",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1532",
+    "customer_name": "Melissa Caldwell",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1533",
+    "customer_name": "Stephanie Contreras",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1534",
+    "customer_name": "Andrew Holder",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "SWest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1535",
+    "customer_name": "Benjamin Lynch",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1536",
+    "customer_name": "Jason Caldwell",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1537",
+    "customer_name": "Michael Harris",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1538",
+    "customer_name": "Megan Kelly",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1539",
+    "customer_name": "Shawn Bright",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1540",
+    "customer_name": "Jessica Daniels",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1541",
+    "customer_name": "Pamela Rodriguez",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1542",
+    "customer_name": "Cameron Howard",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1543",
+    "customer_name": "Jennifer Powers",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1544",
+    "customer_name": "Edward Lowe",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1545",
+    "customer_name": "Mike Woods",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1546",
+    "customer_name": "Amy Golden",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1547",
+    "customer_name": "Nicholas Ellison",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Noth",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1548",
+    "customer_name": "Olivia Johnson",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Eest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1549",
+    "customer_name": "Kevin Fields",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1550",
+    "customer_name": "Ronald Pacheco",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1551",
+    "customer_name": "Lisa Perkins",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1552",
+    "customer_name": "Lori Johnson",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1553",
+    "customer_name": "Patricia Garrison",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1554",
+    "customer_name": "Sheila Simon",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1555",
+    "customer_name": "Kimberly Reid",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1556",
+    "customer_name": "Cheryl Jarvis",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1557",
+    "customer_name": "Rebecca Curtis",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1558",
+    "customer_name": "Mary Allen",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1559",
+    "customer_name": "Leah Williams",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1560",
+    "customer_name": "Sara Warren",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1561",
+    "customer_name": "Susan Lee",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1562",
+    "customer_name": "Laura Moon",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1563",
+    "customer_name": "Steven Moore",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1564",
+    "customer_name": "Daryl Scott",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Cental",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1565",
+    "customer_name": "Lisa Smith",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1566",
+    "customer_name": "Crystal Smith",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1567",
+    "customer_name": "David Miller",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1568",
+    "customer_name": "Aaron Frank",
+    "type": "Online",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1569",
+    "customer_name": "Adam Woods",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1570",
+    "customer_name": "Nathaniel Montgomery",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1571",
+    "customer_name": "Mr. Michael Lee",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1572",
+    "customer_name": "Charles Payne",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1573",
+    "customer_name": "Christopher Miles",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1574",
+    "customer_name": "Henry Lee",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1575",
+    "customer_name": "Julie Munoz",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1576",
+    "customer_name": "Matthew Padilla",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1577",
+    "customer_name": "Jonathan Baker",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1578",
+    "customer_name": "James Kelly",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1579",
+    "customer_name": "Elaine Huff",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Wesst",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1580",
+    "customer_name": "Scott Bass",
+    "type": "Online",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1581",
+    "customer_name": "Jessica Holden",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1582",
+    "customer_name": "Melinda Little",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1583",
+    "customer_name": "Lauren Lowe",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1584",
+    "customer_name": "Courtney Navarro",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1585",
+    "customer_name": "Tommy Rojas",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1586",
+    "customer_name": "Laura Horton",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1587",
+    "customer_name": "Zachary Jones",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1588",
+    "customer_name": "Monica Smith",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1589",
+    "customer_name": "Connor Porter",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1590",
+    "customer_name": "Ryan Taylor",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1591",
+    "customer_name": "Michelle Pollard",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "N/E",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1592",
+    "customer_name": "Tanya Rhodes",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1593",
+    "customer_name": "Dr. Justin Meyer",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1594",
+    "customer_name": "Leslie Boyer",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1595",
+    "customer_name": "Cheryl Joseph",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1596",
+    "customer_name": "Brandon Hall",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1597",
+    "customer_name": "Robert Kane",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1598",
+    "customer_name": "Savannah Fletcher",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1599",
+    "customer_name": "Pedro Coffey",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Suth",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1600",
+    "customer_name": "Michelle Yu PhD",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1601",
+    "customer_name": "Anne Sutton",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Suth",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1602",
+    "customer_name": "Erika Smith",
+    "type": "Retail",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1603",
+    "customer_name": "Margaret Miller",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1604",
+    "customer_name": "Joseph Ramirez",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1605",
+    "customer_name": "John Barnes",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "SWest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1606",
+    "customer_name": "Diana Nelson",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1607",
+    "customer_name": "Jason Smith",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1608",
+    "customer_name": "Anthony Nichols",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1609",
+    "customer_name": "James Gonzalez",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1610",
+    "customer_name": "William Lewis",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1611",
+    "customer_name": "Stephanie Johnson",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1612",
+    "customer_name": "Lisa Barajas",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "SWest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1613",
+    "customer_name": "Candace Greene",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1614",
+    "customer_name": "James Davis",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1615",
+    "customer_name": "Kim Richards",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1616",
+    "customer_name": "James Gonzalez",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1617",
+    "customer_name": "Anne Lara",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1618",
+    "customer_name": "Ann Rodriguez",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1619",
+    "customer_name": "Robert Miller",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1620",
+    "customer_name": "Matthew Dillon",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1621",
+    "customer_name": "Joshua Rodriguez",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1622",
+    "customer_name": "Jason Harris",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1623",
+    "customer_name": "Christopher Andrade",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1624",
+    "customer_name": "Nicholas Stanley",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1625",
+    "customer_name": "Patrick Hogan",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1626",
+    "customer_name": "Brooke Carter",
+    "type": "Online",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1627",
+    "customer_name": "Mary Ramos MD",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1628",
+    "customer_name": "Tyler Dillon",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1629",
+    "customer_name": "Donna Romero",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1630",
+    "customer_name": "Mark Ortiz",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1631",
+    "customer_name": "Kimberly Riddle",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1632",
+    "customer_name": "Jason Leonard",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1633",
+    "customer_name": "Melissa Wilson",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1634",
+    "customer_name": "James Ellis",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1635",
+    "customer_name": "Michael Palmer",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1636",
+    "customer_name": "Krista Green",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1637",
+    "customer_name": "Susan Flowers",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1638",
+    "customer_name": "Breanna Smith",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1639",
+    "customer_name": "Tiffany Woods",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1640",
+    "customer_name": "Jessica Benjamin",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1641",
+    "customer_name": "Bryan Benitez",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1642",
+    "customer_name": "Daniel Atkinson",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1643",
+    "customer_name": "Mark Soto",
+    "type": "Online",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1644",
+    "customer_name": "Brooke Carter",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1645",
+    "customer_name": "Linda Rangel",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1646",
+    "customer_name": "Brooke Carter",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1647",
+    "customer_name": "Derek Murray",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1648",
+    "customer_name": "Terrance Phelps",
+    "type": "Online",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1649",
+    "customer_name": "Jillian Hughes",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1650",
+    "customer_name": "Walter Mckee",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1651",
+    "customer_name": "Michael Kelly",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1652",
+    "customer_name": "Deborah Ramirez",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "N/E",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1653",
+    "customer_name": "Kathryn Wiley",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1654",
+    "customer_name": "Valerie King",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1655",
+    "customer_name": "Kristin Cowan",
+    "type": "Online",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1656",
+    "customer_name": "Rebecca Ashley",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1657",
+    "customer_name": "Robert Graham",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1658",
+    "customer_name": "Tommy Rojas",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1659",
+    "customer_name": "Jeremy Hoffman",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1660",
+    "customer_name": "Alexandra Bridges",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1661",
+    "customer_name": "Gregory Gutierrez",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1662",
+    "customer_name": "Benjamin Lamb",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1663",
+    "customer_name": "Eric Lewis",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1664",
+    "customer_name": "Marilyn Carter",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1665",
+    "customer_name": "Jason Phillips",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1666",
+    "customer_name": "Samantha King",
+    "type": "Retail",
+    "city": "New York",
+    "region": "N/E",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1667",
+    "customer_name": "Diana Newman",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1668",
+    "customer_name": "William Lopez",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1669",
+    "customer_name": "Cindy White",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Suth",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1670",
+    "customer_name": "Joseph Hughes",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Wesst",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1671",
+    "customer_name": "Suzanne Perez",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1672",
+    "customer_name": "Luis Mendez",
+    "type": "Online",
+    "city": "New York",
+    "region": "Wesst",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1673",
+    "customer_name": "Bryan Shepherd",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1674",
+    "customer_name": "Kyle Andrews",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1675",
+    "customer_name": "Monica James",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1676",
+    "customer_name": "Daniel Bell",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1677",
+    "customer_name": "Sarah Perry",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1678",
+    "customer_name": "Ian Wilkins",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1679",
+    "customer_name": "Lydia Ruiz",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1680",
+    "customer_name": "Emily Sims",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1681",
+    "customer_name": "Linda Fuller",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "SWest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1682",
+    "customer_name": "Julie Montes",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1683",
+    "customer_name": "Jay Bowman",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1684",
+    "customer_name": "Sherry Melton",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1685",
+    "customer_name": "James Alexander",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1686",
+    "customer_name": "Nathan Jones",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1687",
+    "customer_name": "Matthew Alexander",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1688",
+    "customer_name": "Marissa Howard",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1689",
+    "customer_name": "Sabrina Davis",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Wesst",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1690",
+    "customer_name": "Natasha Peterson",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1691",
+    "customer_name": "Zachary Bauer",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1692",
+    "customer_name": "Bradley Roberson",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1693",
+    "customer_name": "Monique Williams",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Cental",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1694",
+    "customer_name": "Angela Arnold",
+    "type": "Retail",
+    "city": "New York",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1695",
+    "customer_name": "Justin Hill",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1696",
+    "customer_name": "Sarah Perry",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1697",
+    "customer_name": "Eric Contreras",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1698",
+    "customer_name": "Amanda Hartman",
+    "type": "Online",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1699",
+    "customer_name": "Olivia Willis",
+    "type": "Retail",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1700",
+    "customer_name": "Valerie King",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1701",
+    "customer_name": "Laura Stewart",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Suth",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1702",
+    "customer_name": "Adam Contreras",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1703",
+    "customer_name": "Kevin Burns",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1704",
+    "customer_name": "Bonnie Marshall",
+    "type": "Online",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1705",
+    "customer_name": "Chelsea Brown",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1706",
+    "customer_name": "Martha Lester",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1707",
+    "customer_name": "Troy Peterson",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1708",
+    "customer_name": "Carolyn Ellis",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1709",
+    "customer_name": "Wesley Gonzalez",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1710",
+    "customer_name": "Donald Phillips",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1711",
+    "customer_name": "Natalie Tate",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1712",
+    "customer_name": "Suzanne Perez",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1713",
+    "customer_name": "Ryan Ochoa",
+    "type": "Online",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1714",
+    "customer_name": "Amber Flores",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1715",
+    "customer_name": "Scott Harris",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1716",
+    "customer_name": "Justin Odom",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1717",
+    "customer_name": "Thomas Gonzalez",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1718",
+    "customer_name": "Sergio Thomas",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1719",
+    "customer_name": "Brenda Hughes",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1720",
+    "customer_name": "Nicole Brooks",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1721",
+    "customer_name": "Brian Blevins",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1722",
+    "customer_name": "Penny Smith",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1723",
+    "customer_name": "Christine Everett",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1724",
+    "customer_name": "Kimberly Perez",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1725",
+    "customer_name": "Heather Brown",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1726",
+    "customer_name": "Kristi Long",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1727",
+    "customer_name": "William West",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1728",
+    "customer_name": "Kenneth Owens",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1729",
+    "customer_name": "Allison Boyd",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1730",
+    "customer_name": "Sara Parks",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1731",
+    "customer_name": "Lori Fox",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1732",
+    "customer_name": "Tyler Gonzales",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1733",
+    "customer_name": "Joshua Coleman",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1734",
+    "customer_name": "Jamie Coleman",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1735",
+    "customer_name": "Vanessa Williams",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1736",
+    "customer_name": "Amanda Schmidt",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1737",
+    "customer_name": "Brenda Jackson",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1738",
+    "customer_name": "Gabriella Wheeler",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1739",
+    "customer_name": "Jacob Soto",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Wesst",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1740",
+    "customer_name": "Robert Turner",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1741",
+    "customer_name": "Sarah Campbell",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1742",
+    "customer_name": "Felicia Thomas",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1743",
+    "customer_name": "Dawn Henderson",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1744",
+    "customer_name": "Tracy Aguilar",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1745",
+    "customer_name": "Kathleen Jacobson",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1746",
+    "customer_name": "Todd Brooks",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1747",
+    "customer_name": "Aaron Wallace",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1748",
+    "customer_name": "Tiffany Howard",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1749",
+    "customer_name": "Madison Cooper",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1750",
+    "customer_name": "William Campbell",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1751",
+    "customer_name": "Jennifer Jones",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1752",
+    "customer_name": "Terri Jenkins",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1753",
+    "customer_name": "Natasha Peterson",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1754",
+    "customer_name": "Mary Jackson",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1755",
+    "customer_name": "Cynthia Peters",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1756",
+    "customer_name": "Gregory Logan",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1757",
+    "customer_name": "Courtney Warren",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1758",
+    "customer_name": "Martha Smith",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1759",
+    "customer_name": "Heather Mason",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1760",
+    "customer_name": "Caroline Young",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1761",
+    "customer_name": "Krista Peterson",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1762",
+    "customer_name": "Robert Sherman",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1763",
+    "customer_name": "Shannon Morris",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1764",
+    "customer_name": "Adam Johnson",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1765",
+    "customer_name": "Mrs. Holly Brooks",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1766",
+    "customer_name": "Pamela Jackson",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1767",
+    "customer_name": "Robert Shepard",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1768",
+    "customer_name": "Abigail Cross",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1769",
+    "customer_name": "Dominique Robinson",
+    "type": "Online",
+    "city": "New York",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1770",
+    "customer_name": "Louis Russell",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1771",
+    "customer_name": "Olivia Hill",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1772",
+    "customer_name": "Eric Ward",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1773",
+    "customer_name": "Jacob Calhoun",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1774",
+    "customer_name": "Robert Reed",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Noth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1775",
+    "customer_name": "Christopher Baird",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1776",
+    "customer_name": "Jason Perry",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1777",
+    "customer_name": "Heather Miller",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1778",
+    "customer_name": "Spencer Spencer",
+    "type": "Online",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1779",
+    "customer_name": "Monica Lin",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1780",
+    "customer_name": "Lindsay Simmons",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1781",
+    "customer_name": "Alan Page",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1782",
+    "customer_name": "Chelsea Johnson",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1783",
+    "customer_name": "Gregory Walls",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1784",
+    "customer_name": "Brian Williams",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1785",
+    "customer_name": "Charles Payne",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1786",
+    "customer_name": "Bethany Cross",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1787",
+    "customer_name": "Sierra Martinez",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1788",
+    "customer_name": "Daniel Gordon",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1789",
+    "customer_name": "William Hardin",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1790",
+    "customer_name": "Nicole Pena",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1791",
+    "customer_name": "David Cruz",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1792",
+    "customer_name": "Mary Ryan",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1793",
+    "customer_name": "Natalie Wilson",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1794",
+    "customer_name": "John Adams",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "N/E",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1795",
+    "customer_name": "Steven Jimenez",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Wesst",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1796",
+    "customer_name": "Lauren Mosley",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1797",
+    "customer_name": "Ashley Gibson",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1798",
+    "customer_name": "Jeremy Baker",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1799",
+    "customer_name": "Louis Robinson",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1800",
+    "customer_name": "Katherine Taylor",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1801",
+    "customer_name": "Jesus Martinez",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1802",
+    "customer_name": "Tiffany Lang",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1803",
+    "customer_name": "Sara Peterson",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1804",
+    "customer_name": "Bryce Tanner",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1805",
+    "customer_name": "Elizabeth Christensen",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "Noth",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1806",
+    "customer_name": "Kylie Nielsen",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1807",
+    "customer_name": "Ms. Morgan Brown",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1808",
+    "customer_name": "Matthew Mills",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1809",
+    "customer_name": "Elizabeth Thompson",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1810",
+    "customer_name": "Ronnie Flores",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1811",
+    "customer_name": "Danielle Hunt",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1812",
+    "customer_name": "Jean Ray",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1813",
+    "customer_name": "Cheryl Jarvis",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1814",
+    "customer_name": "Julie Allen",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1815",
+    "customer_name": "Jesus Martinez",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Suth",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1816",
+    "customer_name": "Mr. Jonathon Shaw PhD",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1817",
+    "customer_name": "Samantha Jones",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1818",
+    "customer_name": "Linda Smith",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Wesst",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1819",
+    "customer_name": "Brooke Dominguez",
+    "type": "Retail",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1820",
+    "customer_name": "Dr. Erin Kelly",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1821",
+    "customer_name": "Edwin Ferrell",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1822",
+    "customer_name": "Alison Curtis",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1823",
+    "customer_name": "Elizabeth Christensen",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1824",
+    "customer_name": "Kim Long",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1825",
+    "customer_name": "Gregory Walls",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1826",
+    "customer_name": "Shawn Jackson",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1827",
+    "customer_name": "Nicholas Lozano",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1828",
+    "customer_name": "Tina White",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1829",
+    "customer_name": "Melissa Spencer",
+    "type": "Online",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1830",
+    "customer_name": "Kerry Mack",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Eest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1831",
+    "customer_name": "Mallory Hutchinson",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1832",
+    "customer_name": "Isaac Boyle",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1833",
+    "customer_name": "Patrick Rodriguez",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1834",
+    "customer_name": "Ryan Dunn",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1835",
+    "customer_name": "Michelle Thompson",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1836",
+    "customer_name": "John James",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1837",
+    "customer_name": "Susan Flowers",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Southwest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1838",
+    "customer_name": "Cassandra Leonard",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1839",
+    "customer_name": "Jennifer Dean",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Cental",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1840",
+    "customer_name": "John Keith Jr.",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1841",
+    "customer_name": "Victoria Shea",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1842",
+    "customer_name": "Janice Mcintosh",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1843",
+    "customer_name": "Andres Turner",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1844",
+    "customer_name": "Erik Parsons",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1845",
+    "customer_name": "Tonya Gross",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1846",
+    "customer_name": "Jesus Stephens",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1847",
+    "customer_name": "Samantha Sherman",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1848",
+    "customer_name": "Robert Bailey",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1849",
+    "customer_name": "Kent Wilkinson",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1850",
+    "customer_name": "Jonathan Moon",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1851",
+    "customer_name": "Brenda Hughes",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1852",
+    "customer_name": "James Mccullough",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1853",
+    "customer_name": "Pamela Clark",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1854",
+    "customer_name": "Laurie Parker",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1855",
+    "customer_name": "Jason Grant",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1856",
+    "customer_name": "Adam Brennan",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1857",
+    "customer_name": "Angela Howell",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1858",
+    "customer_name": "Michael Harrington",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1859",
+    "customer_name": "Heather Hall",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1860",
+    "customer_name": "Blake Harris",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Wesst",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1861",
+    "customer_name": "Matthew Jenkins",
+    "type": "Online",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1862",
+    "customer_name": "Jacob Bryant",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1863",
+    "customer_name": "Heather Yang",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1864",
+    "customer_name": "Joshua Taylor",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1865",
+    "customer_name": "Bruce Coleman",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1866",
+    "customer_name": "Michelle Yu",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1867",
+    "customer_name": "Lucas Decker",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1868",
+    "customer_name": "David Cruz",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1869",
+    "customer_name": "Michael Curtis",
+    "type": "Online",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1870",
+    "customer_name": "Andre Owens DDS",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1871",
+    "customer_name": "Bethany Franklin",
+    "type": "Hospital",
+    "city": "New York",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1872",
+    "customer_name": "Robert Harrison",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1873",
+    "customer_name": "Emily Torres",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "North",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1874",
+    "customer_name": "Joan Mccall",
+    "type": "Hospital",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1875",
+    "customer_name": "Bryan Gallegos",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1876",
+    "customer_name": "Renee Bradshaw",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1877",
+    "customer_name": "Jean Huynh",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Noth",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1878",
+    "customer_name": "Maria Carey",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1879",
+    "customer_name": "Dana Green",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1880",
+    "customer_name": "Dennis Richards",
+    "type": "Online",
+    "city": "Chicago",
+    "region": "SWest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1881",
+    "customer_name": "Susan Smith",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1882",
+    "customer_name": "Jason Mendoza",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1883",
+    "customer_name": "James King",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Cental",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1884",
+    "customer_name": "Heather Gonzalez",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1885",
+    "customer_name": "Michael Lewis",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1886",
+    "customer_name": "Shelby Mann",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1887",
+    "customer_name": "Christopher Palmer",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1888",
+    "customer_name": "Jason Wilson",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1889",
+    "customer_name": "Mitchell Myers",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1890",
+    "customer_name": "Matthew Padilla",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1891",
+    "customer_name": "Michelle Morrison",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1892",
+    "customer_name": "Darrell Martinez",
+    "type": "Hospital",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1893",
+    "customer_name": "Wendy Rivera",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1894",
+    "customer_name": "Danny Petersen",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1895",
+    "customer_name": "Sierra Martinez",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1896",
+    "customer_name": "Robert Kane",
+    "type": "Hospital",
+    "city": "Bangalore",
+    "region": "Northeast",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1897",
+    "customer_name": "Laura Navarro",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1898",
+    "customer_name": "Dennis Coleman",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1899",
+    "customer_name": "Susan Cherry",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1900",
+    "customer_name": "Kendra Evans",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1901",
+    "customer_name": "Donna Fisher",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1902",
+    "customer_name": "Robert Reed",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "Central",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1903",
+    "customer_name": "Steven May",
+    "type": "Online",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1904",
+    "customer_name": "Dr. David Tanner DVM",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1905",
+    "customer_name": "Justin Cunningham",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1906",
+    "customer_name": "Jeffery Mason",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1907",
+    "customer_name": "Alexander Barrett",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1908",
+    "customer_name": "Michael Gonzalez",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1909",
+    "customer_name": "Daniel White",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1910",
+    "customer_name": "Marissa Payne",
+    "type": "Online",
+    "city": "New York",
+    "region": "Eest",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1911",
+    "customer_name": "Matthew Medina",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1912",
+    "customer_name": "Sarah Reid",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1913",
+    "customer_name": "Alexander Barrett",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "Cental",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1914",
+    "customer_name": "Jody Banks",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1915",
+    "customer_name": "Teresa Crosby",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1916",
+    "customer_name": "Angela Howell",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1917",
+    "customer_name": "Suzanne Perez",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "South",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1918",
+    "customer_name": "Laura Moran",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "West",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1919",
+    "customer_name": "Jason Washington",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1920",
+    "customer_name": "Elizabeth Brown",
+    "type": "Retail",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1921",
+    "customer_name": "Angela Walker",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1922",
+    "customer_name": "Jacob Nichols",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Central",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1923",
+    "customer_name": "Michael Brown",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1924",
+    "customer_name": "Andrea Carey",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "SWest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1925",
+    "customer_name": "Jaime Berry",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1926",
+    "customer_name": "Brittany David",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Cental",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1927",
+    "customer_name": "Paul Wilkinson",
+    "type": "Online",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1928",
+    "customer_name": "Mrs. Melissa Evans",
+    "type": "Online",
+    "city": "Phoenix",
+    "region": "N/E",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1929",
+    "customer_name": "Mark Soto",
+    "type": "Hospital",
+    "city": "Phoenix",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1930",
+    "customer_name": "Darren Thomas",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1931",
+    "customer_name": "Roger Evans",
+    "type": "Wholesale",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1932",
+    "customer_name": "Mr. Ethan Wright",
+    "type": "Online",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1933",
+    "customer_name": "Allen White",
+    "type": "Retail",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1934",
+    "customer_name": "Charles Lane",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1935",
+    "customer_name": "Michael Clayton",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "Southwest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1936",
+    "customer_name": "Shannon Hernandez",
+    "type": "Online",
+    "city": "New York",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1937",
+    "customer_name": "Zachary Bauer",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1938",
+    "customer_name": "Jonathan Lewis",
+    "type": "Online",
+    "city": "Bangalore",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1939",
+    "customer_name": "Seth Foster",
+    "type": "Online",
+    "city": "Houston",
+    "region": "Noth",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1940",
+    "customer_name": "Mr. Kevin Neal",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1941",
+    "customer_name": "Robert Bailey",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1942",
+    "customer_name": "Matthew Chavez",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1943",
+    "customer_name": "Susan Ingram",
+    "type": "Wholesale",
+    "city": "Bangalore",
+    "region": "North",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1944",
+    "customer_name": "Jamie Gonzalez",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "North",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1945",
+    "customer_name": "Sandra Sandoval",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1946",
+    "customer_name": "Jordan Robinson",
+    "type": "Online",
+    "city": "Pune",
+    "region": "North",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1947",
+    "customer_name": "Andrea Stephens",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "East",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1948",
+    "customer_name": "Bryan Lyons",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Northeast",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1949",
+    "customer_name": "Kimberly Curry",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1950",
+    "customer_name": "Anthony Howell",
+    "type": "Online",
+    "city": "New York",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1951",
+    "customer_name": "Wayne Smith",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1952",
+    "customer_name": "Donna Martin",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "SWest",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1953",
+    "customer_name": "Christina Jones",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1954",
+    "customer_name": "Todd Stephens",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1955",
+    "customer_name": "Michael Schultz",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1956",
+    "customer_name": "Tara Sanchez",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1957",
+    "customer_name": "William Davis",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1958",
+    "customer_name": "Felicia Hill",
+    "type": "Wholesale",
+    "city": "New York",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1959",
+    "customer_name": "Linda Hays",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Noth",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1960",
+    "customer_name": "Kelsey Carroll",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Suth",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1961",
+    "customer_name": "Jill Hicks",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "East",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1962",
+    "customer_name": "Michael Daniel",
+    "type": "Wholesale",
+    "city": "Los Angeles",
+    "region": "Noth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1963",
+    "customer_name": "Jeff Cummings",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "Central",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1964",
+    "customer_name": "Bryce Hurley",
+    "type": "Online",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1965",
+    "customer_name": "Julie Jones",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "Central",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1966",
+    "customer_name": "Ashley Wilcox",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1967",
+    "customer_name": "David Nicholson",
+    "type": "Retail",
+    "city": "Zurich",
+    "region": "Eest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1968",
+    "customer_name": "Patrick Long",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Wesst",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1969",
+    "customer_name": "Eugene Baldwin",
+    "type": "Wholesale",
+    "city": "Delhi",
+    "region": "South",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1970",
+    "customer_name": "Daniel Schneider",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1971",
+    "customer_name": "Jodi Gonzalez",
+    "type": "Wholesale",
+    "city": "Phoenix",
+    "region": "East",
+    "sales_rep": "Rep_8"
+  },
+  {
+    "customer_id": "C1972",
+    "customer_name": "Kimberly Hamilton",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "Central",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1973",
+    "customer_name": "Javier Clark",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "Northeast",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1974",
+    "customer_name": "Alisha Gregory",
+    "type": "Online",
+    "city": "Pune",
+    "region": "West",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1975",
+    "customer_name": "Mary Ramos MD",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1976",
+    "customer_name": "Jessica Adkins",
+    "type": "Retail",
+    "city": "Chicago",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1977",
+    "customer_name": "Christopher Nicholson PhD",
+    "type": "Online",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_2"
+  },
+  {
+    "customer_id": "C1978",
+    "customer_name": "David Lamb",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1979",
+    "customer_name": "Andrea Hogan",
+    "type": "Retail",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1980",
+    "customer_name": "Ms. Carolyn Harris",
+    "type": "Wholesale",
+    "city": "Chicago",
+    "region": "Southwest",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1981",
+    "customer_name": "Jennifer Sanders",
+    "type": "Online",
+    "city": "Houston",
+    "region": "West",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1982",
+    "customer_name": "Allison Saunders",
+    "type": "Hospital",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1983",
+    "customer_name": "Tara Moore",
+    "type": "Online",
+    "city": "Los Angeles",
+    "region": "Southwest",
+    "sales_rep": "Rep_1"
+  },
+  {
+    "customer_id": "C1984",
+    "customer_name": "Joel Marshall",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1985",
+    "customer_name": "Danielle Rogers",
+    "type": "Hospital",
+    "city": "Delhi",
+    "region": "Southwest",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1986",
+    "customer_name": "Mary Patrick",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "West",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1987",
+    "customer_name": "Christopher Johnson",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1988",
+    "customer_name": "Katherine James",
+    "type": "Retail",
+    "city": "Phoenix",
+    "region": "North",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1989",
+    "customer_name": "Steven Davis DDS",
+    "type": "Retail",
+    "city": "Delhi",
+    "region": "Central",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1990",
+    "customer_name": "Alicia Miles",
+    "type": "Retail",
+    "city": "Basel",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1991",
+    "customer_name": "Dustin Jones MD",
+    "type": "Wholesale",
+    "city": "Zurich",
+    "region": "North",
+    "sales_rep": "Rep_9"
+  },
+  {
+    "customer_id": "C1992",
+    "customer_name": "Kimberly Miller",
+    "type": "Online",
+    "city": "Pune",
+    "region": "East",
+    "sales_rep": "Rep_7"
+  },
+  {
+    "customer_id": "C1993",
+    "customer_name": "Rhonda Williamson",
+    "type": "Wholesale",
+    "city": "Houston",
+    "region": "East",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1994",
+    "customer_name": "Carrie Miller",
+    "type": "Hospital",
+    "city": "Los Angeles",
+    "region": "West",
+    "sales_rep": "Rep_6"
+  },
+  {
+    "customer_id": "C1995",
+    "customer_name": "David Cruz",
+    "type": "Hospital",
+    "city": "Chicago",
+    "region": "East",
+    "sales_rep": "Rep_4"
+  },
+  {
+    "customer_id": "C1996",
+    "customer_name": "Philip Fletcher",
+    "type": "Wholesale",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_3"
+  },
+  {
+    "customer_id": "C1997",
+    "customer_name": "Tyler Robertson",
+    "type": "Hospital",
+    "city": "Zurich",
+    "region": "Suth",
+    "sales_rep": "Rep_10"
+  },
+  {
+    "customer_id": "C1998",
+    "customer_name": "Paula Proctor",
+    "type": "Retail",
+    "city": "Pune",
+    "region": "South",
+    "sales_rep": "Rep_5"
+  },
+  {
+    "customer_id": "C1999",
+    "customer_name": "Deborah Anthony",
+    "type": "Online",
+    "city": "Basel",
+    "region": "Northeast",
+    "sales_rep": "Rep_7"
+  }
+]
